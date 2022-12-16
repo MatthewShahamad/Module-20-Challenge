@@ -1,6 +1,6 @@
 # Module-20-Challenge
-This project houses the module 20 challenge 
-
+This project houses the module 20 challenge <br>
+Link to site https://matthewshahamad.github.io/Module-20-Challenge/<br>
 ## User Story
 AS AN employer looking for candidates with experience building single-page applications <br> 
 I WANT to view a potential employee's deployed React portfolio of work samples<br> 
